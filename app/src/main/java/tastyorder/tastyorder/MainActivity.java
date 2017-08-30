@@ -33,7 +33,7 @@ import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 
 public class MainActivity extends AppCompatActivity {
-
+    String Test = null;
     String resultXML = null;
 
     ListView listview ;
